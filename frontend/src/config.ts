@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://backend.arifalmas3-14.workers.dev"
